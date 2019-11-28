@@ -22,8 +22,8 @@
 ### Contenido
 
 - [ ] Sesión 1: Instalación (27/11/2019)
-- [ ] Sesión 2: Consola y vim (3/12/2019)
-- [ ] Sesión 3: Formateo de archivos de datos desde consola unix (5/12/2019)
+- [ ] Sesión 2: Consola y Vim (3/12/2019)
+- [ ] Sesión 3: Formateo de archivos de datos desde consola Unix (5/12/2019)
 - [ ] Sesión 4: Fundamentos de MySQL  (10/12/2019)
 - [ ] Sesión 5: Consultas de datos relacionales (12/12/2019)
 - [ ] Sesión 6: Fundamentos de MongoDB (17/12/2019)
