@@ -7,7 +7,8 @@
    manumsr93@gmail.com
 
    Martes y Jueves, 19 a 22hrs.
-   Networks Av. Monterrey No, 81 Esquina con, Calle de Durango 75, Roma Nte., 06700 Ciudad de México, CDMX
+   Networks Av. Monterrey No, 81 Esquina con, Calle de Durango 75, Roma Nte., 
+   06700 Ciudad de México, CDMX
 ```
 
 ### OBJETIVOS
