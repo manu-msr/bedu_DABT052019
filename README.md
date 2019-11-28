@@ -19,20 +19,18 @@
 - Definir, agregar, modificar y consultar bases de datos con MongoDB
 - Consultar datos por medio de API en la nube
 
-### Contenido
+### Agenda
 
-- [ ] Sesión 1: Instalación (27/11/2019)
-- [ ] Sesión 2: Consola y Vim (3/12/2019)
-- [ ] Sesión 3: Formateo de archivos de datos desde consola Unix (5/12/2019)
-- [ ] Sesión 4: Fundamentos de MySQL  (10/12/2019)
-- [ ] Sesión 5: Consultas de datos relacionales (12/12/2019)
-- [ ] Sesión 6: Fundamentos de MongoDB (17/12/2019)
-- [ ] Sesión 7: Consultas de datos no relacionales (19/12/2019)
-- [ ] Sesión 8: Fundamentos de bases de datos en la nube (7/01/2019)
-- [ ] Sesión 9: Consultas de datos en la nube (9/01/2019)
-- [ ] Sesión 10: Círculo de estudio (14/01/2019)
-- [ ] Sesión 11: *Checkpoint* (16/01/2019)
-
-### Material
-
-#### Ejemplos / Retos
+|   | Fecha | Tema                                             | Material | Postwork |
+|---|-------|--------------------------------------------------|----------|----------|
+|[ ]| 27/11 | Instalación                                      |          |          | 
+|[ ]| 3/12  | Consola y Vim                                    |          |          |
+|[ ]| 5/12  | Formateo de archivos de datos desde consola Unix |          |          |
+|[ ]| 10/12 | Fundamenttos de MySQL                            |          |          |
+|[ ]| 12/12 | Consultas de datos relacionales                  |          |          |
+|[ ]| 17/12 | Fundamentos de MongoDB                           |          |          |
+|[ ]| 19/12 | Consultas de datos no relacionales               |          |          |
+|[ ]| 7/01  | Fundamentos de bases de datos en la nube         |          |          |
+|[ ]| 9/01  | Consultas de datos en las nubes                  |          |          |
+|[ ]| 14/01 | Círculo de estudio                               |          |          |
+|[ ]| 16/01 | *Checkpoint*                                     |          |          |
