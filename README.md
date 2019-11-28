@@ -23,7 +23,7 @@
 
 | Fecha | Tema                                             | Material |
 |-------|--------------------------------------------------|----------|
-| 27/11 | Instalación                                      | [Sesión 0](https://docs.google.com/document d/1P7xnYGl1ChaPsauKGTy-UYMAsx9Q2FgnhNAgwdjZ798/edit?usp=sharing) |
+| 27/11 | Instalación                                      | [Sesión 0](https://docs.google.com/document/d/1P7xnYGl1ChaPsauKGTy-UYMAsx9Q2FgnhNAgwdjZ798/edit?usp=sharing) |
 | 3/12  | Consola y Vim                                    |          |
 | 5/12  | Formateo de archivos de datos desde consola Unix |          |
 | 10/12 | Fundamenttos de MySQL                            |          |
