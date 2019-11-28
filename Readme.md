@@ -19,14 +19,18 @@
 
 ### CONTENIDO
 
-1. [ ] Instalación (27/11/2019)
-2. [ ] Consola y vim (3/12/2019)
-3. [ ] Formateo de archivos de datos desde consola unix (5/12/2019)
-4. [ ] Fundamentos de MySQL  (10/12/2019)
-5. [ ] Consultas de datos relacionales (12/12/2019)
-6. [ ] Fundamentos de MongoDB (17/12/2019)
-7. [ ] Consultas de datos no relacionales (19/12/2019)
-8. [ ] Fundamentos de bases de datos en la nube (7/01/2019)
-9. [ ] Consultas de datos en la nube (9/12/2019)
+- [ ] Sesión 1: Instalación (27/11/2019)
+- [ ] Sesión 2: Consola y vim (3/12/2019)
+- [ ] Sesión 3: Formateo de archivos de datos desde consola unix (5/12/2019)
+- [ ] Sesión 4: Fundamentos de MySQL  (10/12/2019)
+- [ ] Sesión 5: Consultas de datos relacionales (12/12/2019)
+- [ ] Sesión 6: Fundamentos de MongoDB (17/12/2019)
+- [ ] Sesión 7: Consultas de datos no relacionales (19/12/2019)
+- [ ] Sesión 8: Fundamentos de bases de datos en la nube (7/01/2019)
+- [ ] Sesión 9: Consultas de datos en la nube (9/01/2019)
+- [ ] Sesión 10: Círculo de estudio (14/01/2019)
+- [ ] Sesión 11: *Checkpoint* (16/01/2019)
 
 ### MATERIAL
+
+## Ejemplos y Retos
