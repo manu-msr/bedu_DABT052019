@@ -1,9 +1,11 @@
-## Módulo: Fundamentos de Bases de datos para Ciencia de Datos 
+## Fundamentos de Bases de datos para Ciencia de Datos 
 
-### HORARIO DE CLASE
+### Información General
 
 ```
-   Manuel Soto Romero
+   Grupo: DABT052019
+
+   L. en C.C. Manuel Soto Romero
    manumsr93@gmail.com
 
    Martes y Jueves, 19 a 22hrs.
@@ -11,13 +13,13 @@
    06700 Ciudad de México, CDMX
 ```
 
-### OBJETIVOS
+### Objetivos
 - Procesar archivos de datos desde la terminal Unix
 - Definir, agregar, modificar y consultar bases de datos con MySQL
 - Definir, agregar, modificar y consultar bases de datos con MongoDB
 - Consultar datos por medio de API en la nube
 
-### CONTENIDO
+### Contenido
 
 - [ ] Sesión 1: Instalación (27/11/2019)
 - [ ] Sesión 2: Consola y vim (3/12/2019)
@@ -31,6 +33,6 @@
 - [ ] Sesión 10: Círculo de estudio (14/01/2019)
 - [ ] Sesión 11: *Checkpoint* (16/01/2019)
 
-### MATERIAL
+### Material
 
-#### Ejemplos y Retos
+#### Ejemplos / Retos
