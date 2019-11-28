@@ -21,16 +21,16 @@
 
 ### Agenda
 
-| Fecha | Tema                                             | Material | Postwork |
-|-------|--------------------------------------------------|----------|----------|
-| 27/11 | Instalación                                      |          |          | 
-| 3/12  | Consola y Vim                                    |          |          |
-| 5/12  | Formateo de archivos de datos desde consola Unix |          |          |
-| 10/12 | Fundamenttos de MySQL                            |          |          |
-| 12/12 | Consultas de datos relacionales                  |          |          |
-| 17/12 | Fundamentos de MongoDB                           |          |          |
-| 19/12 | Consultas de datos no relacionales               |          |          |
-| 7/01  | Fundamentos de bases de datos en la nube         |          |          |
-| 9/01  | Consultas de datos en las nubes                  |          |          |
-| 14/01 | Círculo de estudio                               |          |          |
-| 16/01 | *Checkpoint*                                     |          |          |
+| Fecha | Tema                                             | Material |
+|-------|--------------------------------------------------|----------|
+| 27/11 | Instalación                                      | [Sesión 0](https://docs.google.com/document d/1P7xnYGl1ChaPsauKGTy-UYMAsx9Q2FgnhNAgwdjZ798/edit?usp=sharing) |
+| 3/12  | Consola y Vim                                    |          |
+| 5/12  | Formateo de archivos de datos desde consola Unix |          |
+| 10/12 | Fundamenttos de MySQL                            |          |
+| 12/12 | Consultas de datos relacionales                  |          |
+| 17/12 | Fundamentos de MongoDB                           |          |
+| 19/12 | Consultas de datos no relacionales               |          |
+| 7/01  | Fundamentos de bases de datos en la nube         |          |
+| 9/01  | Consultas de datos en las nubes                  |          |
+| 14/01 | Círculo de estudio                               |          |
+| 16/01 | *Checkpoint*                                     |          |
