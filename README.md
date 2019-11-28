@@ -23,7 +23,7 @@
 
 |   | Fecha | Tema                                             | Material | Postwork |
 |---|-------|--------------------------------------------------|----------|----------|
-|[ ]| 27/11 | Instalación                                      |          |          | 
+|- [ ]| 27/11 | Instalación                                      |          |          | 
 |[ ]| 3/12  | Consola y Vim                                    |          |          |
 |[ ]| 5/12  | Formateo de archivos de datos desde consola Unix |          |          |
 |[ ]| 10/12 | Fundamenttos de MySQL                            |          |          |
