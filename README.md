@@ -22,7 +22,7 @@
 ### Agenda
 
 | Fecha | Tema                                             | Material | Notas |
-|-------|--------------------------------------------------|----------|
+|-------|--------------------------------------------------|----------| ----- |
 | 27/11 | Instalación                                      | [Sesión 0](https://docs.google.com/document/d/1P7xnYGl1ChaPsauKGTy-UYMAsx9Q2FgnhNAgwdjZ798/edit?usp=sharing) | |
 | 3/12  | Consola y Vim                                    | [Sesión 1](Sesion-01/) | [Nota 1](https://drive.google.com/open?id=1CMHAC2L-y3GqRdAwBQyGmf1hRQcHvqSU) |
 | 5/12  | Formateo de archivos de datos desde consola Unix |          | |
