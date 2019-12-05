@@ -13,11 +13,6 @@
 #### DESARROLLO
 1. Abrir la terminal (Linux y Mac) o Git Bash (Windows)
 
-<<<<<<< HEAD
-=======
-   __Sugerencia:__ Adicional a resolver dudas de que es una terminal o porqué usar una terminal comentar porqué usar Git Bash y no CMD o Power Shell en Windows.
-   
->>>>>>> master
 1. Obtener la ruta (o path) de la carpeta actual, escribe el comando `pwd` y presiona ENTER:
    ```console
    $ pwd
