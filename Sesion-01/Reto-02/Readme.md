@@ -22,7 +22,11 @@
 
 1. Crea el archivo `terminal-chuleta.txt`
    ```console
+<<<<<<< HEAD
    Reto-02 $ ???
+=======
+   Reto-02 $ touch terminal-chuleta.txt
+>>>>>>> master
    Reto-02 $ ls
    terminal-chuleta.txt
    Reto-02 $
@@ -38,17 +42,29 @@
    ```
 
    ```console
+<<<<<<< HEAD
    Reto-02 $ ???
    Reto-02 $ ???
    Reto-02 $ ???
    Reto-02 $ ???
    Reto-02 $ ???
+=======
+   Reto-02 $ echo pwd Muestra el nombre de la carpeta de trabajo actual >> terminal-chuleta.txt
+   Reto-02 $ echo mkdir Crear una nueva carpeta >> terminal-chuleta.txt
+   Reto-02 $ echo cd Cambia a una nueva carpeta >> terminal-chuleta.txt
+   Reto-02 $ echo cd .. Regresa a la carpeta anterior >> terminal-chuleta.txt
+   Reto-02 $ echo rmdir Elimina una carpeta vacía >> terminal-chuleta.txt
+>>>>>>> master
    ```
    Puedes agregar tantos comandos y su descripción como desees, esto es sólo un ejemplo de como crear archivos desde la terminal.
 
 1. En el punto anterior has creado el archivo `terminal-chuleta.txt`, ahora imprime el contenido del archivo
    ```console
+<<<<<<< HEAD
    Reto-02 $ ???
+=======
+   Reto-02 $ cat terminal-chuleta.txt
+>>>>>>> master
    pwd Muestra el nombre de la carpeta de trabajo actual
    mkdir Crear una nueva carpeta
    cd Cambia a una nueva carpeta
@@ -61,7 +77,11 @@
 
 1. Crea una copia de respaldo del archivo `terminal-chuleta.txt` con el nombre `terminal-chuleta.1.txt`
    ```console
+<<<<<<< HEAD
    Reto-02 $ cp ???
+=======
+   Reto-02 $ cp terminal-chuleta.txt terminal-chuleta.1.txt
+>>>>>>> master
    Reto-02 $ ls
    terminal-chuleta.1.txt  terminal-chuleta.txt
    Reto-02 $
@@ -69,7 +89,11 @@
 
 1. Imprime el contenido de los dos archivos creados usando el comando `cat`
    ```console
+<<<<<<< HEAD
    Reto-02 $ ???
+=======
+   Reto-02 $ cat terminal-chuleta.txt terminal-chuleta.1.txt
+>>>>>>> master
    pwd Muestra el nombre de la carpeta de trabajo actual
    mkdir Crear una nueva carpeta
    cd Cambia a una nueva carpeta
@@ -86,7 +110,11 @@
 
    Ahora crea el archivo `todo.txt` con el contenido de ambos archivos.
    ```console
+<<<<<<< HEAD
    Reto-02 $ ???
+=======
+   Reto-02 $ cat terminal-chuleta.txt terminal-chuleta.1.txt > todo.txt
+>>>>>>> master
    Reto-02 $ cat todo.txt
    pwd Muestra el nombre de la carpeta de trabajo actual
    mkdir Crear una nueva carpeta
@@ -103,7 +131,11 @@
 
 1. Finalmente borra el archivo `todo.txt`
    ```console
+<<<<<<< HEAD
    Reto-02 $ ???
+=======
+   Reto-02 $ rm todo.txt
+>>>>>>> master
    Reto-02 $ ls
    terminal-chuleta.1.txt  terminal-chuleta.txt
    Reto-02 $
