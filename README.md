@@ -25,7 +25,7 @@
 |-------|--------------------------------------------------|----------|
 | 27/11 | Instalación                                      | [Sesión 0](https://docs.google.com/document/d/1P7xnYGl1ChaPsauKGTy-UYMAsx9Q2FgnhNAgwdjZ798/edit?usp=sharing) |
 | 3/12  | Consola y Vim                                    | [Sesión 1](Sesion-01/) |
-| 5/12  | Formateo de archivos de datos desde consola Unix |          |
+| 5/12  | Formateo de archivos de datos desde consola Unix | [Sesión 2](Sesion-02/) |
 | 10/12 | Fundamentos de MySQL                             |          |
 | 12/12 | Consultas de datos relacionales                  |          |
 | 17/12 | Fundamentos de MongoDB                           |          |
