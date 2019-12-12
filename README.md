@@ -24,10 +24,10 @@
 | Fecha | Tema                                             | Material |
 |-------|--------------------------------------------------|----------|
 | 27/11 | Instalación                                      | [Sesión 0](https://docs.google.com/document/d/1P7xnYGl1ChaPsauKGTy-UYMAsx9Q2FgnhNAgwdjZ798/edit?usp=sharing) |
-| 3/12  | Consola y Vim                                    | [Sesión 1](Sesion-01/) |
-| 5/12  | Formateo de archivos de datos desde consola Unix | [Sesión 2](Sesion-02/) |
-| 10/12 | Fundamentos de MySQL                             | [Sesión 3](Sesion-03/) |
-| 12/12 | Consultas de datos relacionales                  |          |
+| 3/12  | Introducción a la terminal de comandos           | [Sesión 1](Sesion-01/) |
+| 5/12  | Preparación y consulta de datos desde la terminal| [Sesión 2](Sesion-02/) |
+| 10/12 | Fundamentos MySQL                                | [Sesión 3](Sesion-03/) |
+| 12/12 | Consultas de datos y relaciones en SQL           | [Sesión 4](Sesion-04/) |
 | 17/12 | Fundamentos de MongoDB                           |          |
 | 19/12 | Consultas de datos no relacionales               |          |
 | 7/01  | Fundamentos de bases de datos en la nube         |          |
