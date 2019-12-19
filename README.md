@@ -29,7 +29,7 @@
 | 10/12 | Fundamentos MySQL                                | [Sesión 3](Sesion-03/) |
 | 12/12 | Consultas de datos y relaciones en SQL           | [Sesión 4](Sesion-04/) |
 | 17/12 | Fundamentos de MongoDB                           | [Sesión 5](Sesion-05/) |
-| 19/12 | Consultas de datos no relacionales               |          |
+| 19/12 | Consultas de datos no relacionales               | [Sesión 6](Sesion-06/) |
 | 7/01  | Fundamentos de bases de datos en la nube         |          |
 | 9/01  | Consultas de datos en la nube                    |          |
 | 14/01 | Círculo de estudio                               |          |
